@@ -1,7 +1,9 @@
 **About**
+<br>
 This project is a simple demonstration of the steps required to push code from a local machine to a GitHub repository. It documents my learning journey as I explored the basics of Git and GitHub.
 
 **What I Learned**
+<br>
 How to initialize a Git repository on a local machine.
 How to stage and commit changes.
 How to connect the local repo to a remote GitHub repository.
