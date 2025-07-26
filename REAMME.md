@@ -11,5 +11,5 @@ How to push commits from local to GitHub.
 1. Initialize Git (if not already initialized): git init
 2. Add files to the staging area: git add .
 3. Commit the changes: git commit -m "Your commit message"
-4. Add the remote repository: git remote add origin https://github.com/your-username/your-repo.git
+4. Add the remote repository: git remote add origin https://github.com/NilamVerma23/Local-Repo.git
 5. Push to GitHub: git push -u origin main
